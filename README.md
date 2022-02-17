@@ -22,4 +22,4 @@ After entering just the card number of the event you're interested to know the d
 5) Time the match ended at
 6) Method of winning
 
-Note: This third feature doesn't work for some cards, and I'm unable to find the reason why :(
+Note: This third feature doesn't work for some cards, and I can't figure out why :(
